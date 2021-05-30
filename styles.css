@@ -143,4 +143,26 @@
         text-decoration: none;
     }
 
+    /* footer */
+    .footer{
+        background-color: var(--primary-color);
+        padding:5rem;
+        text-align: center;
+        color:var(--light-color);
+        border-radius: 5px;
+
+    }
+    #link{
+        color:white;
+        padding: 2rem;
+        font-size:2rem;
+    }
+    footer h1{
+        padding-bottom: 2rem;
+    }
+    footer p{
+        position: relative;
+        padding:1rem;
+    }
+    
 
